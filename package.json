@@ -1,0 +1,14 @@
+{
+  "name": "learniomobile",
+  "version": "1.0.0",
+  "description": "Education platform for mobile devices",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "1unaturc0",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
