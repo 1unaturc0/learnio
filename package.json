@@ -1,14 +1,17 @@
 {
-  "name": "learniomobile",
-  "version": "1.0.0",
-  "description": "Education platform for mobile devices",
-  "main": "index.js",
-  "scripts": {
-    "test": "test"
-  },
-  "author": "1unaturc0",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^5.1.0"
-  }
+	"name": "learniomobile",
+	"version": "1.0.0",
+	"description": "Education platform for mobile devices",
+	"main": "server.js",
+	"scripts": {
+		"test": "test"
+	},
+	"author": "1unaturc0",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^5.1.0",
+		"learniomobile": "file:",
+		"sequelize": "^6.37.7",
+		"sqlite3": "^5.1.7"
+	}
 }
